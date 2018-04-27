@@ -1,0 +1,5 @@
+kumaapipocbundle_default:
+    resource: '@KumaApiPocBundle/Controller/DefaultController.php'
+    type:     annotation
+    prefix:   /
+

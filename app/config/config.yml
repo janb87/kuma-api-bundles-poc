@@ -216,7 +216,7 @@ kunstmaan_page_part:
     extended_pagepart_chooser: true
 
 kunstmaan_admin:
-    admin_password: -adminpwd-
+    admin_password: Ajd0umMS
     dashboard_route: 'kunstmaan_dashboard'
 
 ekino_new_relic:

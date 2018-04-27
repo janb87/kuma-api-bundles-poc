@@ -1,0 +1,16 @@
+name: Main
+context: main
+types:
+    - { name: Audio, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\AudioPagePart }
+    - { name: Button, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\ButtonPagePart }
+    - { name: Download, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\DownloadPagePart }
+    - { name: Header, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\HeaderPagePart }
+    - { name: Image, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\ImagePagePart }
+    - { name: IntroText, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\IntroTextPagePart }
+    - { name: Line, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\LinePagePart }
+    - { name: Link, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\LinkPagePart }
+    - { name: RawHtml, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\RawHtmlPagePart }
+    - { name: Text, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\TextPagePart }
+    - { name: Toc, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\TocPagePart }
+    - { name: ToTop, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\ToTopPagePart }
+    - { name: Video, class: Kuma\Bundle\ApiPocBundle\Entity\PageParts\VideoPagePart }
